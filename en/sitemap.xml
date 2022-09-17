@@ -48,6 +48,29 @@
                 href="https://atomsofus.com/"
                 />
   </url><url>
+    <loc>https://atomsofus.com/blog/</loc>
+    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://atomsofus.com/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://atomsofus.com/it/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://atomsofus.com/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atomsofus.com/blog/"
+                />
+  </url><url>
     <loc>https://atomsofus.com/categories/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -92,29 +115,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://atomsofus.com/tags/how-to/"
-                />
-  </url><url>
-    <loc>https://atomsofus.com/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://atomsofus.com/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://atomsofus.com/it/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://atomsofus.com/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://atomsofus.com/blog/"
                 />
   </url><url>
     <loc>https://atomsofus.com/blog/date-i18n/</loc>
