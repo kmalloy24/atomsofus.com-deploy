@@ -8,75 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://atomsofus.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artificial Intelligence and Robotics In A Nutshell</title>
+      <title>Our Hikes So Far</title>
+      <link>https://atomsofus.com/blog/post-2/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://atomsofus.com/blog/post-2/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit.</description>
+    </item>
+    
+    <item>
+      <title>Our Journery So Far (The First 3 Months in the Van)</title>
       <link>https://atomsofus.com/blog/post-1/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
       <guid>https://atomsofus.com/blog/post-1/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>Drone Software and Development</title>
-      <link>https://atomsofus.com/blog/post-8/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://atomsofus.com/blog/post-8/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>Github Repository Controls</title>
-      <link>https://atomsofus.com/blog/post-4/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://atomsofus.com/blog/post-4/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>My work from home workstation</title>
-      <link>https://atomsofus.com/blog/post-5/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://atomsofus.com/blog/post-5/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>Robotic world is growing very fast</title>
-      <link>https://atomsofus.com/blog/post-7/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://atomsofus.com/blog/post-7/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>What is a Virtual Assistant</title>
-      <link>https://atomsofus.com/blog/post-3/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://atomsofus.com/blog/post-3/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>What you need to know about Programming</title>
-      <link>https://atomsofus.com/blog/post-2/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://atomsofus.com/blog/post-2/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>Why you need to learn PHP</title>
-      <link>https://atomsofus.com/blog/post-6/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://atomsofus.com/blog/post-6/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
@@ -89,7 +35,7 @@
     </item>
     
     <item>
-      <title>Let&#39;s, Talk About You</title>
+      <title>Contact</title>
       <link>https://atomsofus.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -103,7 +49,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atomsofus.com/privacy-policy/</guid>
-      <description>Privacy Policy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc.</description>
+      <description>PRIVACY NOTICE
+Last updated September 20, 2022
+This privacy notice for Atoms of Us (&#34;Company,&#34; &#34;we,&#34; &#34;us,&#34; or &#34;our&#34;), describes how and why we might collect, store, use, and/or share (&#34;</description>
     </item>
     
     <item>
