@@ -5,41 +5,77 @@
     <link>https://atomsofus.com/categories/</link>
     <description>Recent content in Categories on Atoms of Us</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://atomsofus.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://atomsofus.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Technical Assistance</title>
-      <link>https://atomsofus.com/categories/technical-assistance/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://atomsofus.com/categories/technical-assistance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
+      <title>artificial intelligence</title>
       <link>https://atomsofus.com/categories/artificial-intelligence/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
       <guid>https://atomsofus.com/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Company News</title>
-      <link>https://atomsofus.com/categories/company-news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>assistant</title>
+      <link>https://atomsofus.com/categories/assistant/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/categories/company-news/</guid>
+      <guid>https://atomsofus.com/categories/assistant/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Legacy Support</title>
-      <link>https://atomsofus.com/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>drone</title>
+      <link>https://atomsofus.com/categories/drone/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/categories/legacy-support/</guid>
+      <guid>https://atomsofus.com/categories/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://atomsofus.com/categories/github/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://atomsofus.com/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://atomsofus.com/categories/programming/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://atomsofus.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://atomsofus.com/categories/robotics/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://atomsofus.com/categories/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workstation</title>
+      <link>https://atomsofus.com/categories/workstation/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://atomsofus.com/categories/workstation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://atomsofus.com/categories/youtube/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://atomsofus.com/categories/youtube/</guid>
       <description></description>
     </item>
     

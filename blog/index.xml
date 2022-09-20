@@ -5,69 +5,78 @@
     <link>https://atomsofus.com/blog/</link>
     <description>Recent content in Blog on Atoms of Us</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://atomsofus.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://atomsofus.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pretty-print dates</title>
-      <link>https://atomsofus.com/blog/date-i18n/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      <title>Artificial Intelligence and Robotics In A Nutshell</title>
+      <link>https://atomsofus.com/blog/post-1/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/blog/date-i18n/</guid>
-      <description>To write out an ISO 8601 timestamp in the current language, you can use the date_l10n shortcode:</description>
+      <guid>https://atomsofus.com/blog/post-1/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>https://atomsofus.com/blog/blog-post-1/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>Drone Software and Development</title>
+      <link>https://atomsofus.com/blog/post-8/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/blog/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+      <guid>https://atomsofus.com/blog/post-8/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>https://atomsofus.com/blog/blog-post-2/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>Github Repository Controls</title>
+      <link>https://atomsofus.com/blog/post-4/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/blog/blog-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+      <guid>https://atomsofus.com/blog/post-4/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>https://atomsofus.com/blog/blog-post-3/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>My work from home workstation</title>
+      <link>https://atomsofus.com/blog/post-5/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/blog/blog-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+      <guid>https://atomsofus.com/blog/post-5/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>https://atomsofus.com/blog/blog-post-4/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>Robotic world is growing very fast</title>
+      <link>https://atomsofus.com/blog/post-7/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/blog/blog-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+      <guid>https://atomsofus.com/blog/post-7/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>https://atomsofus.com/blog/blog-post-5/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>What is a Virtual Assistant</title>
+      <link>https://atomsofus.com/blog/post-3/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/blog/blog-post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+      <guid>https://atomsofus.com/blog/post-3/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>https://atomsofus.com/blog/blog-post-6/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>What you need to know about Programming</title>
+      <link>https://atomsofus.com/blog/post-2/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://atomsofus.com/blog/blog-post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+      <guid>https://atomsofus.com/blog/post-2/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
+    </item>
+    
+    <item>
+      <title>Why you need to learn PHP</title>
+      <link>https://atomsofus.com/blog/post-6/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://atomsofus.com/blog/post-6/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
   </channel>
