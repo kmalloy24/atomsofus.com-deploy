@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trails on Atoms of Us</title>
+    <link>https://atomsofus.com/tags/trails/</link>
+    <description>Recent content in trails on Atoms of Us</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://atomsofus.com/tags/trails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our 8 Favorite Hikes of 2022</title>
+      <link>https://atomsofus.com/blog/top-8-2022/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomsofus.com/blog/top-8-2022/</guid>
+      <description>In December of 2021, we decided we were going to quit our jobs and live in a van full time, traveling the country and exploring the outdoors.</description>
+    </item>
+    
+    <item>
+      <title>All of Our Hikes to Date</title>
+      <link>https://atomsofus.com/blog/hikes-so-far/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://atomsofus.com/blog/hikes-so-far/</guid>
+      <description>Drop us a line on instagram if you are planning to take one of these hikes yourself!</description>
+    </item>
+    
+  </channel>
+</rss>
